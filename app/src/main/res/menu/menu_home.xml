@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuhomeQR"
+        android:title="QR code"
+        app:showAsAction="always"
+        android:icon="@drawable/qrcode"/>
+
+
+    <item
+        android:id="@+id/menuhomelocation"
+        android:title="My Location"
+        app:showAsAction="always"
+        android:icon="@drawable/location"/>
+
+
+    <item
+        android:id="@+id/homepageMyProfile"
+        android:title="My Profile"
+        app:showAsAction="always"
+        android:icon="@drawable/myprofile"/>
+    <item
+        android:id="@+id/homepageLogout"
+        android:title="Logout"
+        app:showAsAction="never"
+        android:icon="@drawable/logout"/>
+
+    <item
+        android:id="@+id/homepageSettings"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/homepageContactUs"
+        android:title="Contact Us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/homepageAboutUs"
+        android:title="About Us"
+        app:showAsAction="never"/>
+    
+
+</menu>
+
