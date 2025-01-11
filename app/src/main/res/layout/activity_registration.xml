@@ -14,7 +14,7 @@
         android:layout_height="500dp"
         android:layout_gravity="center"
         android:layout_marginTop="115sp"
-        app:cardBackgroundColor="@color/lightgreen"
+        app:cardBackgroundColor="@color/Lightgreen"
         app:cardCornerRadius="24sp"
         app:cardElevation="24sp">
         <ScrollView

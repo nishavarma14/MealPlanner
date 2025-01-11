@@ -2,9 +2,10 @@
 <resources>
     <color name="pink">#8B7993</color>
     <color name="green">#3CA140</color>
-    <color name="lightgreen">#A978A1A6</color>
+    <color name="light">#936460</color>
     <color name="black">#090A0B</color>
     <color name="white">#EDF1F4</color>
     <color name="red">#4A323B</color>
+    <color name="lightgreen">#369E61</color>
 
 </resources>

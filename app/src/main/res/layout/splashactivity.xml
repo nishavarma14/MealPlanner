@@ -7,27 +7,20 @@
     android:layout_height="match_parent"
     tools:context=".splashactivity"
     android:orientation="vertical"
-    android:gravity="center"
-    >
+    android:gravity="center">
 
     <ImageView
         android:layout_width="450dp"
         android:layout_height="450dp"
         android:id="@+id/ivMainLogo"
-        android:src="@drawable/believer"/>
-
-    <ImageView
-        android:layout_width="450dp"
-        android:layout_height="450dp"
-        android:id="@+id/ivMainLogo"
-        android:src="@drawable/believer"/>
+        android:src="@drawable/meal"/>
 
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tvMainTitle"
-        android:text="@string/HealthMate"
+        android:text="@string/BiteBalance"
         android:textSize="20sp"
         android:textStyle="italic"
         android:gravity="center"

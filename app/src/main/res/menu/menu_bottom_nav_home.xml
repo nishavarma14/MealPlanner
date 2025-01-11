@@ -8,13 +8,13 @@
 
         <item
             android:id="@+id/menuappointments"
-            android:title="Appointments"
-            android:icon="@drawable/appointment"/>
+            android:title="Recepies"
+            android:icon="@drawable/recepies"/>
 
             <item
                 android:id="@+id/menumusic"
-                android:title="Music"
-                android:icon="@drawable/music"/>
+                android:title="Concern"
+                android:icon="@drawable/concern"/>
 
 
 </menu>
